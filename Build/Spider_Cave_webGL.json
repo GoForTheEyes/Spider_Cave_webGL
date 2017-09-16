@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Spider_Cave_webGL.data.unityweb",
+"asmCodeUrl": "Spider_Cave_webGL.asm.code.unityweb",
+"asmMemoryUrl": "Spider_Cave_webGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Spider_Cave_webGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
